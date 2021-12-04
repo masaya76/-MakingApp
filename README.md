@@ -913,7 +913,6 @@ html
 郡山市
 　若関酒造株式会社
 
-
 　有限会社渡辺酒造本店
 　http://www.yukikomachi.co.jp/
 　
@@ -929,7 +928,6 @@ html
 
 常陸大宮市
 　浅川酒造株式会社
-
 
 　合資会社井坂酒造店
 　http://www.isakasyuzou.co.jp/
