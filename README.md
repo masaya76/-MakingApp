@@ -1,7 +1,7 @@
 # のんべえ君
 
 ## サイト概要
-撮影した日本酒を投稿したり、探して見つけるサイト
+撮影した日本酒を投稿して「いいね」や「コメント」をしたり、探して見つけるサイト
 
 
 ### サイトテーマ
@@ -32,52 +32,72 @@ https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgz
 
 ## 使用素材(かなりの数になります)
 北海道
+
 	箱館醸蔵　　　　http://gohhou.jp/
+
   二世古酒造　　　http://nisekoshuzo.com/
+
   田中酒造　　　　https://tanakashuzo.com/
+
   日本清酒　　　　https://www.nipponseishu.co.jp/
+
   国稀酒造　　　　https://www.kunimare.co.jp/
+
   小林酒造　　　　http://www.kitanonishiki.com/
+
   金滴酒造　　　　http://www.kinteki.co.jp/
+
   髙砂酒造　　　　https://www.takasagoshuzo.com/
+	
   合同酒清　　　　https://www.oenon.jp/product/sake/godo/
+
   男山　　　　　　https://www.kuramotokai.com/
+
   三千櫻酒造　　　https://michizakura.jp/
-  上川大雪酒造 
-  　　　　　　　　https://kamikawa-taisetsu.co.jp/
+  
+  上川大雪酒造  　https://kamikawa-taisetsu.co.jp/
   
   福司酒造　　　　https://www.fukutsukasa.jp/
   
-  碓氷勝三郎商店　　　　　　　
-  　　　　　　　　http://www.marimo.or.jp/~honda/cybermkt/mall/usui/
-  	
-青森県
+  碓氷勝三郎商店　　http://www.marimo.or.jp/~honda/cybermkt/mall/usui/
+  	　　　　　　　　　　　　
+　　　青森県
+
 尾崎酒造株式会社　　　　　青森県西津軽郡
 	http://www.ozakishuzo.com/
+
 株式会社カネタ玉田酒造店　青森県弘前市
 　http://www.aomori-sake.or.jp/kuramoto/hanaippuu.html
+
 株式会社菊駒酒造　　　　　青森県三戸郡
 　http://www.kikukoma.com/
+
 白神酒造株式会社　　　　　青森県弘前市
 　http://www.sirakami-sake.com/
+
 有限会社関乃井酒造　　　　青森県むつ市
 　http://www.sekinoi.co.jp/
+
 株式会社竹浪酒造店　　　　つがる市
 	https://www.facebook.com/iwakimasamune/
+
 株式会社中村亀吉　　　　　青森県黒石市
 　
-	
 株式会社鳴海醸造店　　　　青森県黒石市
 　http://www.applet1181.jp/kikunoi/
+
 株式会社西田酒造店　　　　青森県青森市
 　http://www.densyu.co.jp/
+
 八戸酒造株式会社　　　　　青森県八戸市
 　https://mutsu8000.com/
 	
 八戸酒類株式会社 五戸工場　　青森県三戸郡
 　https://hachinohe-syurui.com/
+
 八戸酒類株式会社 八鶴工場　　青森県八戸市
 　https://hachinohe-syurui.com/
+
 鳩正宗株式会社　　　　　　青森県十和田市
 　	http://www.hatomasa.jp/
 	
@@ -98,7 +118,6 @@ https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgz
 	
 吉井酒造株式会社　　　　青森県弘前市
 　
-	
 六花酒造株式会社　　　　青森県弘前市
 　http://www.joppari.com/
 
