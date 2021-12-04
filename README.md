@@ -857,7 +857,9 @@ https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgz
 大田原市
 　渡邉酒造株式会社
 　
+
 　　　群馬県
+
 浅間酒造株式会社
 吾妻郡長野原町	
 http://www.asama-sakagura.co.jp/
