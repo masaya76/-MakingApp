@@ -1927,6 +1927,7 @@ http://www.ryujin.jp/
 新潟市
 　高野酒造株式会社
 　http://www.takano-shuzo.co.jp/
+
 長岡市
 　高橋酒造株式会社
 　http://www.echigo-choryo.co.jp/
@@ -2789,6 +2790,8 @@ http://www.ryujin.jp/
 
 中野市
 　株式会社山形屋
+
+
 上田市
 　山三酒造株式会社
 　http://www.rokumonsen.jp/
@@ -2836,6 +2839,7 @@ http://www.ryujin.jp/
 恵那市
 　岩村醸造株式会社
 　http://www.torokko.co.jp/
+
 
 　恵那醸造株式会社 三郷工場　
 　
@@ -2918,6 +2922,8 @@ http://www.ryujin.jp/
 
 鳥羽郡
 　久納酒造有限会社
+
+
 　千代菊株式会社
 　http://chiyogiku.co.jp/
 
@@ -3031,6 +3037,7 @@ http://www.ryujin.jp/
 　株式会社大村屋酒造場
 　http://www.oomuraya.jp/
 
+
 袋井市
 　國香酒造株式会社
 　
@@ -3048,6 +3055,7 @@ http://www.ryujin.jp/
 
 　山中酒造合資会社
 　http://www5a.biglobe.ne.jp/~yamanaka/index.htm
+
 
 御殿場市
 　株式会社根上酒造店
@@ -3098,6 +3106,8 @@ http://www.ryujin.jp/
 　https://www.mizutanishuzou.jp/
 
 　山忠本家酒造株式会社
+
+
 　渡辺酒造株式会社
 　https://watanabe-shuzo.jimdo.com/
 
@@ -3141,6 +3151,7 @@ http://www.ryujin.jp/
 　山盛酒造株式会社
 　http://takanoyume.co.jp/
 　
+
 海部郡
 　甘強酒造株式会社
 　http://www.kankyo-shuzo.co.jp/index.html
@@ -3189,6 +3200,7 @@ http://www.ryujin.jp/
 　http://www.houraisen.co.jp/
 　森山酒造
 
+
 津島市
 　長珍酒造株式会社
 　http://nihonshu.exblog.jp/
@@ -3199,7 +3211,9 @@ http://www.ryujin.jp/
 稲沢市
 　内藤醸造株式会社
 　http://www.naitojouzou.com/
+
 　藤市酒造株式会社
+
 　
 碧南市
 　永井酒造場
