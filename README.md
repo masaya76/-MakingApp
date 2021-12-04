@@ -916,7 +916,8 @@ html
 　有限会社渡辺酒造本店
 　http://www.yukikomachi.co.jp/
 　
-　　茨城県
+　　
+茨城県
 
 潮来市
 　愛友酒造株式会社
