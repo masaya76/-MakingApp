@@ -31,36 +31,39 @@ https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgz
 - JSライブラリ：jQuery
 - IDE：Cloud9
 
-## 使用素材(使用するのはホームページのみ)
+## 使用素材
+   (今回使用するURLは日本地図から検索後に遷移するために使います)
+
+	 
 北海道
 
-	箱館醸蔵　　　　http://gohhou.jp/
+	箱館醸蔵　　　　http://gohhou.jp/   亀田郡
 
-  二世古酒造　　　http://nisekoshuzo.com/
+  二世古酒造　　　http://nisekoshuzo.com/　虻田郡
 
-  田中酒造　　　　https://tanakashuzo.com/
+  田中酒造　　　　https://tanakashuzo.com/　小樽市
 
-  日本清酒　　　　https://www.nipponseishu.co.jp/
+  日本清酒　　　　https://www.nipponseishu.co.jp/　札幌市
 
-  国稀酒造　　　　https://www.kunimare.co.jp/
+  国稀酒造　　　　https://www.kunimare.co.jp/　増毛町
 
-  小林酒造　　　　http://www.kitanonishiki.com/
+  小林酒造　　　　http://www.kitanonishiki.com/　夕張郡
 
-  金滴酒造　　　　http://www.kinteki.co.jp/
+  金滴酒造　　　　http://www.kinteki.co.jp/　新十津川町
 
-  髙砂酒造　　　　https://www.takasagoshuzo.com/
+  髙砂酒造　　　　https://www.takasagoshuzo.com/　旭川市
 	
-  合同酒清　　　　https://www.oenon.jp/product/sake/godo/
+  合同酒清　　　　https://www.oenon.jp/product/sake/godo/　旭川市
 
-  男山　　　　　　https://www.kuramotokai.com/
+  男山　　　　　　https://www.kuramotokai.com/　旭川市
 
-  三千櫻酒造　　　https://michizakura.jp/
+  三千櫻酒造　　　https://michizakura.jp/　上川郡
   
-  上川大雪酒造  　https://kamikawa-taisetsu.co.jp/
+  上川大雪酒造  　https://kamikawa-taisetsu.co.jp/　上川郡
   
-  福司酒造　　　　https://www.fukutsukasa.jp/
+  福司酒造　　　　https://www.fukutsukasa.jp/　釧路市
   
-  碓氷勝三郎商店　　http://www.marimo.or.jp/~honda/cybermkt/mall/usui/
+  碓氷勝三郎商店　　http://www.marimo.or.jp/~honda/cybermkt/mall/usui/　根室市
   	　　　　　　　　　　　　
 　　　青森県
 
